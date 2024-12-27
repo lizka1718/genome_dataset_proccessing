@@ -10,13 +10,6 @@ import re
 #OBJECTIVE I
 
 
-# from pyspark.sql import SparkSession
-# from pyspark import SparkContext
-# import time
-# import logging
-# import time
-# import re
-
 # def find_repeats(sequence):
 #     return re.findall(r'(.)\1+', sequence)
 
